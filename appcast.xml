@@ -11,7 +11,7 @@
         </item>
         <item>
             <title>Version 1.15.0</title>
-            <description>Minor bug Fixes</description>
+            <description>Minor bug Improvements</description>
             <pubDate>Tue, 12 Jun 2022 12:00:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/us/app/conqur-mobile/id6443733685" sparkle:version="0.4.0" sparkle:os="ios" />
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
