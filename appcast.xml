@@ -4,10 +4,10 @@
         <title>NE Staging</title>
         <item>
             <title>Version 1.15.0</title>
-            <description>Minor bug Fixes</description>
+            <description>Minor bug Fixess</description>
             <pubDate>Tue, 12 Jun 2022 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/apps/internaltest/4700644971681777677" sparkle:version="0.4.0" sparkle:os="android" />
-            <sparkle:tags> <sparkle:minimumAutoupdateVersion>1.0.0</sparkle:minimumAutoupdateVersion> </sparkle:tags>
+            <sparkle:criticalUpdate sparkle:version="1.0.0"></sparkle:criticalUpdate>
         </item>
         <item>
             <title>Version 1.15.0</title>
